@@ -1,2 +1,1 @@
-# tindog
-TinDog Project - Udemy - Dr. Angela Yu
+TinDog Starting Files
